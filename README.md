@@ -39,13 +39,13 @@ and material properties should be verified in CST Studio Suite.*
 
 ## Project Visualizations
 
-### 1. Antenna Model
+ 1. Antenna Model
 
-### 2. Mesh Visualization
+ 2. Mesh Visualization
 
-### 3. Electric Field Vector Visualization
+ 3. Electric Field Vector Visualization
 
-### 4. Electric Field Magnitude
+ 4. Electric Field Magnitude
 
 
 ## Simulation Workflow
